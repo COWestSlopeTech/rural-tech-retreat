@@ -188,7 +188,7 @@ fieldset[disabled] .btn-primary.active {
     color: #fff;
     background-color: #FE654F;
     border-color: #fc5038;
-    border-radius: 3px;
+    border-radius: 0px;
     text-transform: uppercase;
     font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
@@ -335,7 +335,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default .navbar-nav>.active>a {
-        border-radius: 3px;
+        border-radius: 0px;
     }
 
     .navbar-default.navbar-shrink {
@@ -400,14 +400,23 @@ header .intro-text .intro-heading-top {
     -webkit-text-stroke-color: white;
     font-size: 12rem;
 }
-
 header .intro-text .intro-heading-bottom {
     text-transform: uppercase;
     background-size: 100%;
     color: #49FE9F;
     font-size: 10rem;
     font-weight: bold;
-    text-shadow: -.09em -.09em 0 #2D51DC;
+    text-shadow: -.07em -.07em 0 #2D51DC;
+}
+header .intro-text .intro-heading-date {
+    text-transform: uppercase;
+    background-size: 100%;
+    color: white;
+    font-size: 10rem;
+    font-weight: bold;
+    text-shadow: -.07em -.07em 0 #FF654F;
+    display: inline-block;
+    transform: rotate(15deg);
 }
 
 @media(max-width:667px){
@@ -415,7 +424,8 @@ header .intro-text .intro-heading-bottom {
         font-size: 6rem;
         -webkit-text-stroke-width: 3px;
     }
-    header .intro-text .intro-heading-bottom {
+    header .intro-text .intro-heading-bottom,
+    header .intro-text .intro-heading-date {
         font-size: 6rem;
     }
 
