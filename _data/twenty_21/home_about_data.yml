@@ -1,0 +1,23 @@
+- inverted: 
+  img: icon-about.jpeg
+  name: Theme, Mission, Objectives
+  info: Read more about our Theme, Mission, and Ojectives
+  link: /about
+
+- inverted: timeline-inverted
+  img: icon-agenda.jpeg
+  name: Agenda
+  info: Check out the agenda
+  link: /agenda
+
+- inverted:
+  img: icon-venue.jpeg
+  name: Venue
+  info: Learn more about The Ranch
+  link: /venue
+
+- inverted: timeline-inverted
+  img: icon-faq.jpeg
+  name: FAQs
+  info: Have a Question? 
+  link: /faqs

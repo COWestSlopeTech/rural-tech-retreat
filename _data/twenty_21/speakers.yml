@@ -1,0 +1,32 @@
+- title: Hacker Noon
+  name: Name-1
+  subtitle: The fastest growing technology news site in the world.
+  img: hackernoon-logo-square.jpeg
+  thumbnail: hackernoon-logo-square.jpeg
+  alt: Hacker Noon logo
+  topic: Topic
+  description: More Info
+  link: https://hackernoon.com/
+  hometown: Vail
+
+- title: MindView
+  name: Name-2
+  subtitle: Exceptional learning experiences
+  img: mindview-circle.png
+  thumbnail: mindview-circle.png
+  alt: MindView logo
+  topic: Topic
+  description: More Info
+  link: https://www.mindviewllc.com/
+  hometown: Crested Butte
+
+- title: TerraFrame
+  name: Name-2
+  subtitle: Mission driven open source software
+  img: tf-logo.png
+  thumbnail: tf-logo.png
+  alt: TerraFrame logo
+  topic: Topic
+  description: More Info
+  link: https://www.mindviewllc.com/
+  hometown: Broomfield/Marble
