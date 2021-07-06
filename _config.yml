@@ -29,6 +29,8 @@ social:
     url: https://www.facebook.com/groups/westslopetechnologists
   - title: twitter
     url: https://twitter.com/WestSlopeCOTech/
+  - title: slack
+    url: https://join.slack.com/t/westslopetech/shared_invite/zt-3wv7wel1-2CGl7OPSB~PR942sfsV~EQ
 
 # Build settings
 markdown: kramdown
