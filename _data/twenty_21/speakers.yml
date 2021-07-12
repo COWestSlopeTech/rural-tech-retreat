@@ -28,5 +28,28 @@
   alt: TerraFrame logo
   topic: Topic
   description: More Info
-  link: https://www.mindviewllc.com/
+  link: https://www.terraframe.com/
   hometown: Broomfield/Marble
+
+- title: geodav
+  name: Name-2
+  subtitle: We design and build web and mobile apps
+  img: geodav-logo.png
+  thumbnail: geodav-logo.png
+  alt: geodav logo
+  topic: Topic
+  description: More Info
+  link: https://geodav.tech/
+  hometown: Grand Junction
+
+- title: West Slope Works
+  name: Name-2
+  subtitle: The network for west slope job seekers.
+  img: westslopeworks-logo.png
+  thumbnail: westslopeworks-logo.png
+  alt: West Slope Works logo
+  topic: Topic
+  description: More Info
+  link: https://westslopeworks.com/
+  hometown: Grand Junction
+  
