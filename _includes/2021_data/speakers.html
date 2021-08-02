@@ -7,29 +7,43 @@
                     <h3 class="section-subheading text-muted"></h3>
                 </div>
             </div>
-            <div class="row">
+
+            {% assign loopindex = 1 %}
             {% for post in site.data.twenty_21.speakers %}
-                <div class="col-md-4 col-sm-6 speakers-item">
-                    <a href="{{ post.link }}" target="_blank" class="speakers-link" data-toggle="modal">
-                        <div class="speakers-hover">
-                            <div class="speakers-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
+                {% capture modulo %}{{ loopindex | modulo: 3 }}{% endcapture %}
+
+                {% if modulo == '1' %}
+                    <div class='row'>
+                {% endif %}
+
+                {% assign loopindex = loopindex | plus: 1 %}
+                    
+                        <div class="col-md-4 col-sm-6 speakers-item">
+                            <a href="{{ post.link }}" target="_blank" class="speakers-link" data-toggle="modal">
+                                <div class="speakers-hover">
+                                    <div class="speakers-hover-content">
+                                        <i class="fa fa-plus fa-3x"></i>
+                                    </div>
+                                </div>
+                                <img src="../css/2021_style/img/speaker/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                            </a>
+                            <div class="speakers-caption">
+                                <h4>{{ post.title }}</h4>
+                                <p class="text-muted">{{ post.subtitle }}</p>
+                                <p class="text-muted">- {{ post.hometown }} -</p>
                             </div>
                         </div>
-                        <img src="../css/2021_style/img/speaker/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
-                    </a>
-                    <div class="speakers-caption">
-                        <h4>{{ post.title }}</h4>
-                        <p class="text-muted">{{ post.subtitle }}</p>
-                        <p class="text-muted">- {{ post.hometown }} -</p>
-                    </div>
-                </div>
-            {% endfor %}
-            </div>
 
-            <br>
-            <p style="text-align: center;"><b>Wan't your company on this list? Good because we want it there too! <a href = "mailto: roaringforktechnologists@gmail.com">Email us</a> your logo and comapny website.</b></p>
-            <br>
+                        {% if modulo == '0' or posttime <= nowunix %}
+                            </div>
+                        {% endif %}
+            {% endfor %}
+     
+            <div class='row'>
+                <div class="col-md-12 col-sm-12">
+                    <p style="text-align: center;"><b>Wan't your company on this list? Good because we want it there too! <a href = "mailto: roaringforktechnologists@gmail.com">Email us</a> your logo and comapny website.</b></p>
+                </div>
+            </div>
 
             <center><a href="https://join.slack.com/t/westslopetech/shared_invite/zt-3wv7wel1-2CGl7OPSB~PR942sfsV~EQ" class="page-scroll btn btn-xl">Find them on Slack!</a></center>
         </div>

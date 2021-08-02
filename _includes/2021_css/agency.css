@@ -503,6 +503,7 @@ section h3.section-subheading {
     position: relative;
     margin: 0 auto;
     max-width: 400px;
+    background: white;
 }
 
 #speakers .speakers-item .speakers-link .speakers-hover {

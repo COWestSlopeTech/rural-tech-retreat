@@ -52,4 +52,25 @@
   description: More Info
   link: https://westslopeworks.com/
   hometown: Grand Junction
-  
+
+- title: Thought Distillery
+  name: Name-2
+  subtitle: Helping technology leaders and globally-distributed development teams navigate the messy waters of building modern, valuable, and scalable solutions.
+  img: thought-distillery-logo.png
+  thumbnail: thought-distillery-logo.png
+  alt: West Slope Works logo
+  topic: Topic
+  description: More Info
+  link: https://thoughtdistillery.com/
+  hometown: Buena Vista
+
+- title: COVENTURE
+  name: Name-2
+  subtitle: Committed to building economic resiliency in the Roaring Fork Valley through programming, mentorship, incubation and community coworking.
+  img: COVENTURE-Logo.png
+  thumbnail: COVENTURE-Logo.png
+  alt: COVENTURE logo
+  topic: Topic
+  description: More Info
+  link: https://coventure.io/
+  hometown: Carbondale
