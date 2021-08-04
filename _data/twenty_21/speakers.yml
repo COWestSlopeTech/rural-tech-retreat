@@ -20,6 +20,17 @@
   link: https://www.mindviewllc.com/
   hometown: Crested Butte
 
+- title: Thought Distillery
+  name: Name-2
+  subtitle: Helping technology leaders and globally-distributed development teams navigate the messy waters of building modern, valuable, and scalable solutions.
+  img: thought-distillery-logo.png
+  thumbnail: thought-distillery-logo.png
+  alt: West Slope Works logo
+  topic: Topic
+  description: More Info
+  link: https://thoughtdistillery.com/
+  hometown: Buena Vista
+
 - title: TerraFrame
   name: Name-2
   subtitle: Mission driven open source software
@@ -53,17 +64,6 @@
   link: https://westslopeworks.com/
   hometown: Grand Junction
 
-- title: Thought Distillery
-  name: Name-2
-  subtitle: Helping technology leaders and globally-distributed development teams navigate the messy waters of building modern, valuable, and scalable solutions.
-  img: thought-distillery-logo.png
-  thumbnail: thought-distillery-logo.png
-  alt: West Slope Works logo
-  topic: Topic
-  description: More Info
-  link: https://thoughtdistillery.com/
-  hometown: Buena Vista
-
 - title: COVENTURE
   name: Name-2
   subtitle: Committed to building economic resiliency in the Roaring Fork Valley through programming, mentorship, incubation and community coworking.
@@ -74,3 +74,36 @@
   description: More Info
   link: https://coventure.io/
   hometown: Carbondale
+
+- title: FASTG8
+  name: Name-2
+  subtitle: Maximizing return on AD spend for the largest active-lifestyle brands through data-driven digital marketing.
+  img: fastG8-logo.png
+  thumbnail: fastG8-logo.png
+  alt: FASTG8 logo
+  topic: Topic
+  description: More Info
+  link: https://www.fastg8.com/
+  hometown: Carbondale
+
+- title: Greater Colorado Venture Fund
+  name: Name-2
+  subtitle: A VENTURE FUND INVESTING IN RURAL COLORADO
+  img: greater-co-venture-fund-logo.png
+  thumbnail: greater-co-venture-fund-logo.png
+  alt: Greater Colorado Venture Fund logo
+  topic: Topic
+  description: More Info
+  link: https://www.fastg8.com/
+  hometown: Carbondale
+
+# - title: AppOmni
+#   name: Name-2
+#   subtitle: AppOmni's leading SaaS Security Management platform enables you to easily secure critical SaaS applications.
+#   img: AppOmni-logo.png
+#   thumbnail: AppOmni-logo.png
+#   alt: FASTG8 logo
+#   topic: Topic
+#   description: More Info
+#   link: https://appomni.com/
+#   hometown: Carbondale
