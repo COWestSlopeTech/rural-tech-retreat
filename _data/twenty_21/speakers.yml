@@ -88,7 +88,7 @@
 
 - title: Greater Colorado Venture Fund
   name: Name-2
-  subtitle: A VENTURE FUND INVESTING IN RURAL COLORADO
+  subtitle: A Venture Fund Investing In Rural Colorado
   img: greater-co-venture-fund-logo.png
   thumbnail: greater-co-venture-fund-logo.png
   alt: Greater Colorado Venture Fund logo
@@ -99,7 +99,7 @@
 
 - title: See Deep
   name: Name-2
-  subtitle: Increasing Productivity for Multi-Location Brands, Agencies & SMBs
+  subtitle: Full-Service & SaaS Technology & Marketing Solutions for Local Brands, Multi-Location Businesses & Enterprise. 
   img: see-deep-logo.png
   thumbnail: see-deep-logo.png
   alt: See Deep logo
@@ -107,6 +107,17 @@
   description: More Info
   link: https://www.seedeepconsulting.com/
   hometown: Avon Colorado
+
+- title: Capital Technology Group
+  name: Name-2
+  subtitle: We create simple solutions for complex problems
+  img: capital-technology-group-logo.png
+  thumbnail: capital-technology-group-logo.png
+  alt: Capital Technology Group logo
+  topic: Topic
+  description: More Info
+  link: https://www.capitaltg.com/
+  hometown: Carbondale Colorado
 
 # - title: AppOmni
 #   name: Name-2
