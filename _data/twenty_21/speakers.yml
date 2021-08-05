@@ -7,7 +7,7 @@
   topic: Topic
   description: More Info
   link: https://hackernoon.com/
-  hometown: Vail
+  hometown: Vail Colorado
 
 - title: MindView
   name: Name-2
@@ -18,7 +18,7 @@
   topic: Topic
   description: More Info
   link: https://www.mindviewllc.com/
-  hometown: Crested Butte
+  hometown: Crested Butte Colorado
 
 - title: Thought Distillery
   name: Name-2
@@ -29,7 +29,7 @@
   topic: Topic
   description: More Info
   link: https://thoughtdistillery.com/
-  hometown: Buena Vista
+  hometown: Buena Vista Colorado
 
 - title: TerraFrame
   name: Name-2
@@ -40,7 +40,7 @@
   topic: Topic
   description: More Info
   link: https://www.terraframe.com/
-  hometown: Broomfield/Marble
+  hometown: Marble Colorado
 
 - title: geodav
   name: Name-2
@@ -51,7 +51,7 @@
   topic: Topic
   description: More Info
   link: https://geodav.tech/
-  hometown: Grand Junction
+  hometown: Grand Junction Colorado
 
 - title: West Slope Works
   name: Name-2
@@ -62,7 +62,7 @@
   topic: Topic
   description: More Info
   link: https://westslopeworks.com/
-  hometown: Grand Junction
+  hometown: Grand Junction Colorado
 
 - title: COVENTURE
   name: Name-2
@@ -73,7 +73,7 @@
   topic: Topic
   description: More Info
   link: https://coventure.io/
-  hometown: Carbondale
+  hometown: Carbondale Colorado
 
 - title: FASTG8
   name: Name-2
@@ -84,7 +84,7 @@
   topic: Topic
   description: More Info
   link: https://www.fastg8.com/
-  hometown: Carbondale
+  hometown: Carbondale Colorado
 
 - title: Greater Colorado Venture Fund
   name: Name-2
@@ -94,8 +94,19 @@
   alt: Greater Colorado Venture Fund logo
   topic: Topic
   description: More Info
-  link: https://www.fastg8.com/
-  hometown: Telluride
+  link: https://www.greatercolorado.vc/
+  hometown: Telluride Colorado
+
+- title: See Deep
+  name: Name-2
+  subtitle: Increasing Productivity for Multi-Location Brands, Agencies & SMBs
+  img: see-deep-logo.png
+  thumbnail: see-deep-logo.png
+  alt: See Deep logo
+  topic: Topic
+  description: More Info
+  link: https://www.seedeepconsulting.com/
+  hometown: Avon Colorado
 
 # - title: AppOmni
 #   name: Name-2
