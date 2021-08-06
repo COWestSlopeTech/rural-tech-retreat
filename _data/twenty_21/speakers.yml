@@ -75,16 +75,16 @@
   link: https://coventure.io/
   hometown: Carbondale Colorado
 
-- title: FASTG8
-  name: Name-2
-  subtitle: Maximizing return on AD spend for the largest active-lifestyle brands through data-driven digital marketing.
-  img: fastG8-logo.png
-  thumbnail: fastG8-logo.png
-  alt: FASTG8 logo
-  topic: Topic
-  description: More Info
-  link: https://www.fastg8.com/
-  hometown: Carbondale Colorado
+# - title: FASTG8
+#   name: Name-2
+#   subtitle: Maximizing return on AD spend for the largest active-lifestyle brands through data-driven digital marketing.
+#   img: fastG8-logo.png
+#   thumbnail: fastG8-logo.png
+#   alt: FASTG8 logo
+#   topic: Topic
+#   description: More Info
+#   link: https://www.fastg8.com/
+#   hometown: Carbondale Colorado
 
 - title: Greater Colorado Venture Fund
   name: Name-2
@@ -119,13 +119,13 @@
   link: https://www.capitaltg.com/
   hometown: Carbondale Colorado
 
-# - title: AppOmni
-#   name: Name-2
-#   subtitle: AppOmni's leading SaaS Security Management platform enables you to easily secure critical SaaS applications.
-#   img: AppOmni-logo.png
-#   thumbnail: AppOmni-logo.png
-#   alt: FASTG8 logo
-#   topic: Topic
-#   description: More Info
-#   link: https://appomni.com/
-#   hometown: Carbondale
+- title: AppOmni
+  name: Name-2
+  subtitle: AppOmni's leading SaaS Security Management platform enables you to easily secure critical SaaS applications.
+  img: AppOmni-logo.png
+  thumbnail: AppOmni-logo.png
+  alt: FASTG8 logo
+  topic: Topic
+  description: More Info
+  link: https://appomni.com/
+  hometown: Carbondale
