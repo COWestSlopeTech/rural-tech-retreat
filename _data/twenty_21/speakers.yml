@@ -129,3 +129,14 @@
   description: More Info
   link: https://appomni.com/
   hometown: Carbondale
+
+- title: CityGrows
+  name: Name-2
+  subtitle: Fast, affordable, online permitting for local governments
+  img: city-grows-logo.png
+  thumbnail: city-grows-logo.png
+  alt: CityGrows logo
+  topic: Topic
+  description: More Info
+  link: https://citygrows.com/
+  hometown: Carbondale
