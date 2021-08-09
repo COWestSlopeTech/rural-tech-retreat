@@ -128,7 +128,7 @@
   topic: Topic
   description: More Info
   link: https://appomni.com/
-  hometown: Carbondale
+  hometown: Carbondale Colorado
 
 - title: CityGrows
   name: Name-2
@@ -139,4 +139,15 @@
   topic: Topic
   description: More Info
   link: https://citygrows.com/
-  hometown: Carbondale
+  hometown: Carbondale Colorado
+
+- title: DevIQ
+  name: Name-2
+  subtitle: Partners in smart product engineering, from concept to reality
+  img: deviq-logo.png
+  thumbnail: deviq-logo.png
+  alt: DevIQ logo
+  topic: Topic
+  description: More Info
+  link: https://deviq.io/
+  hometown: Steamboat Springs Colorado
