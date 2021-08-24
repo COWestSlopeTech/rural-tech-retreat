@@ -162,3 +162,25 @@
   description: More Info
   link: https://www.schoolblocks.com/
   hometown: Carbondale Colorado
+
+- title: Startup Colorado
+  name: Name-2
+  subtitle: A statewide grassroots initiative with a mission to bridge the distance for rural entrepreneurs and create a density of resources where they do not exist.
+  img: startup-colorado-logo.png
+  thumbnail: startup-colorado-logo.png
+  alt: Startup Colorado logo
+  topic: Topic
+  description: More Info
+  link: https://startupcolorado.org/
+  hometown: Boulder (and beyond) Colorado
+
+- title: Colorado Mesa University
+  name: Name-2
+  subtitle: Colorado Mesa University is a public university in Grand Junction, Colorado.
+  img: cmu-logo.png
+  thumbnail: cmu-logo.png
+  alt: Colorado Mesa University logo
+  topic: Topic
+  description: More Info
+  link: https://www.coloradomesa.edu/
+  hometown: Grand Junction Colorado
