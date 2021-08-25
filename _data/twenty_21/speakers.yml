@@ -184,3 +184,14 @@
   description: More Info
   link: https://www.coloradomesa.edu/
   hometown: Grand Junction Colorado
+
+- title: Descartes Labs
+  name: Name-2
+  subtitle: Actionable intelligence powered by geospatial data, backed by science, and available at planetary scale.
+  img: descartes-labs-logo.png
+  thumbnail: descartes-labs-logo.png
+  alt: Descartes Labs logo
+  topic: Topic
+  description: More Info
+  link: https://descarteslabs.com/
+  hometown: Crested Butte Colorado
