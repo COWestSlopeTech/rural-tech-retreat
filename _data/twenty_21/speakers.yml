@@ -206,3 +206,36 @@
   description: More Info
   link: https://www.campspot.com/
   hometown: Glenwood Springs / Denver
+
+- title: Roaring Fork Help Desk
+  name: Name-2
+  subtitle: Information Technology Infrastructure Management and Support.
+  img: Roaring-Fork-Help-Desk-logo.png
+  thumbnail: Roaring-Fork-Help-Desk-logo.png
+  alt: Roaring Fork Help Desk logo
+  topic: Topic
+  description: More Info
+  link: https://rfhelpdesk.net/
+  hometown: Glenwood Springs Colorado
+
+- title: Atelier
+  name: Name-2
+  subtitle: The platform that makes interior design an easy and fun process.
+  img: atelier-app.jpeg
+  thumbnail: atelier-app.jpeg
+  alt: Atelier logo
+  topic: Topic
+  description: More Info
+  link: https://www.atelier-app.com/
+  hometown: Carbondale Colorado
+
+- title: Blend Web Marketing
+  name: Name-2
+  subtitle: Working closely with your team from beginning to end, we'll build your website and marketing systems on your terms.
+  img: blend-web-logo.jpg
+  thumbnail: blend-web-logo.jpg
+  alt: Blend Web logo
+  topic: Topic
+  description: More Info
+  link: https://blendwebmarketing.com/
+  hometown: Carbondale Colorado

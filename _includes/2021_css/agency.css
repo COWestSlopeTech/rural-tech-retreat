@@ -418,9 +418,17 @@ header .intro-text .intro-heading-date {
     display: inline-block;
     transform: rotate(15deg);
 }
+header .intro-text .intro-heading-sold-out {
+    color: red;
+    -webkit-text-fill-color: black; /* Will override color (regardless of order) */
+    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-color: red;
+    font-size: 12rem;
+}
 
 @media(max-width:667px){
-    header .intro-text .intro-heading-top {
+    header .intro-text .intro-heading-top,
+    header .intro-text .intro-heading-sold-out {
         font-size: 6rem;
         -webkit-text-stroke-width: 3px;
     }
