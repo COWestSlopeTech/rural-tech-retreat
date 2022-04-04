@@ -399,6 +399,7 @@ header .intro-text .intro-heading-top {
     -webkit-text-stroke-width: 4px;
     -webkit-text-stroke-color: white;
     font-size: 12rem;
+    font-family: sans-serif;
 }
 header .intro-text .intro-heading-bottom {
     text-transform: uppercase;
