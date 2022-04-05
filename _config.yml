@@ -2,7 +2,7 @@ title: Rural Tech Retreat 2022
 description: > # this means to ignore newlines until "baseurl:"
   An event focused on building authentic relationships, empowering others, and having fun in the best places. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "Your-Link.github.io" # the base hostname & protocol for your site
+url: "COWestSlopeTech.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
